@@ -1,2 +1,4 @@
 # library management system
-# NetBeans IDE
+
+Using
+NetBeans IDE Languages - Java, MySQL work-bench
